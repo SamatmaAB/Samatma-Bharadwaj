@@ -1,6 +1,8 @@
-Hi there, I'm Samatma A Bharadwaj👋  
-🔹 Computer Science Engineering 
+# Hi there, I'm Samatma A Bharadwaj 👋  
 
-🔹 Learning basics of C Programming 
-
-🔹 Beginner level Knowledge of PYTHON Programming 
+🔹 **Computer Science Engineering Student**  
+🔹 Learning **C Programming**  
+🔹 Beginner-level knowledge of **Python**  
+🔹 Beginner-level knowledge of **C++**  
+🔹 Beginner-level knowledge of **Java**  
+🔹 Beginner-level knowledge of **HTML**  
